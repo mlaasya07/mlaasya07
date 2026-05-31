@@ -1,27 +1,205 @@
-# 💫 About Me:
-<br>    👋 Hi, I’m @mlaasya07 I'm excited to connect with fellow developers and learners!<br>    👀 I’m interested in<br><br>    Web development<br>    Machine learning<br>    Open-source projects<br>    Creative coding<br><br>    🌱 I’m currently learning<br><br>    JavaScript and React<br>    Python for data science<br>    Git and GitHub workflows<br>    UI/UX design principles<br><br>    💞️ I’m looking to collaborate on<br><br>    Fun coding projects<br>    Hackathons<br>    Open-source contributions<br>    Learning resources and tutorials<br><br>     Portfolio: https://aboutme-laasya.netlify.app/<br><br><br><br>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:6B1A2A&height=200&section=header&text=hey,%20i'm%20laasya%20%E2%9C%A6&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=developer%20%C2%B7%20designer%20%C2%B7%20down%20the%20coding%20rabbit%20hole&descAlignY=58&descSize=16&descColor=e0e0e0&animation=fadeIn&font=Roboto%20Mono" />
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+<br/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=22&pause=800&color=9B2335&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;ML+%26+Data+Science+Enthusiast;Creative+Coder+%2B+Occasional+Poet;Building+things+that+matter;always+learning%2C+always+shipping)](https://git.io/typing-svg)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mlaasya_05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mlaasya07) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mlaasya09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mlaasy16@gmail.com) 
+<br/>
 
+[![Portfolio](https://img.shields.io/badge/%E2%9C%A6_Portfolio-6B1A2A?style=for-the-badge&logoColor=white)](https://aboutme-laasya.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mlaasya07)
+[![Instagram](https://img.shields.io/badge/Instagram-6B1A2A?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mlaasya_05)
+[![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mlaasy16@gmail.com)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mlaasya07&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mlaasya07&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mlaasya07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mlaasya07&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+## <img src="https://img.shields.io/badge/%E2%9C%A6%20ABOUT%20ME-6B1A2A?style=for-the-badge&logoColor=white" />
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mlaasya07&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlaasya07&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=9B2335&text_color=ffffff&count_private=true" />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<table>
+  <tr><td bgcolor="#0a0a0a"><img src="https://img.shields.io/badge/Based%20in%20Hyderabad%2C%20India-0a0a0a?style=flat-square&logoColor=white" /></td></tr>
+  <tr><td bgcolor="#0a0a0a"><img src="https://img.shields.io/badge/Currently%20building%20Daawat--Diner%20and%20BLACKQ-0a0a0a?style=flat-square&logoColor=white" /></td></tr>
+  <tr><td bgcolor="#0a0a0a"><img src="https://img.shields.io/badge/Learning%20Advanced%20React%2C%20TypeScript%2C%20Python%20for%20ML-0a0a0a?style=flat-square&logoColor=white" /></td></tr>
+  <tr><td bgcolor="#0a0a0a"><img src="https://img.shields.io/badge/Open%20to%20internships%2C%20collabs%2C%20hackathons-0a0a0a?style=flat-square&logoColor=white" /></td></tr>
+  <tr><td bgcolor="#0a0a0a"><img src="https://img.shields.io/badge/I%20write%20poetry%20and%20code%2C%20sometimes%20both%20at%202am-0a0a0a?style=flat-square&logoColor=white" /></td></tr>
+  <tr><td bgcolor="#0a0a0a"><img src="https://img.shields.io/badge/mlaasy16%40gmail.com-6B1A2A?style=flat-square&logo=gmail&logoColor=white" /></td></tr>
+</table>
+
+<br clear="right"/>
+
+<br/>
+
+## <img src="https://img.shields.io/badge/%E2%9C%A6%20FEATURED%20PROJECTS-6B1A2A?style=for-the-badge&logoColor=white" />
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Daawat-Diner</h3>
+      <p align="center">
+        <a href="https://github.com/mlaasya07/Daawat-Diner">
+          <img src="https://img.shields.io/badge/View%20Repo-0a0a0a?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">Restaurant discovery across 12+ Indian cities. Retro aesthetic, Arabic-inspired branding, smart filters for cuisine, budget and age.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-6B1A2A?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Geoapify-6B1A2A?style=flat-square&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">L-EDGER</h3>
+      <p align="center">
+        <a href="https://github.com/mlaasya07/L-EDGER">
+          <img src="https://img.shields.io/badge/View%20Repo-0a0a0a?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">Peer-to-peer micro-lending for college students. Borrow and lend with full transparency, tracking, and trust.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-6B1A2A?style=flat-square&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Codenheimer</h3>
+      <p align="center">
+        <a href="https://github.com/mlaasya07/Codenheimer">
+          <img src="https://img.shields.io/badge/View%20Repo-0a0a0a?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">ML recommendation system matching users to personalized rewards based on personas. Targeting 80% simulated satisfaction.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-6B1A2A?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Jupyter-0a0a0a?style=flat-square&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Sealya</h3>
+      <p align="center">
+        <a href="https://github.com/mlaasya07/Sealya">
+          <img src="https://img.shields.io/badge/View%20Repo-0a0a0a?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">Personal time capsule. Write letters to your future self, schedule delivery, revisit memories. Beautifully minimal.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-6B1A2A?style=flat-square&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" colspan="2">
+      <h3 align="center">BLACKQ &nbsp;<img src="https://img.shields.io/badge/coming%20soon-6B1A2A?style=flat-square&logoColor=white" /></h3>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+also check out &nbsp;
+<a href="https://github.com/mlaasya07/SentinelAI"><img src="https://img.shields.io/badge/SentinelAI%20(IDEA%202.0%20Hackathon)-6B1A2A?style=flat-square&logoColor=white" /></a> &nbsp;
+<a href="https://github.com/mlaasya07/retro-snake_v2"><img src="https://img.shields.io/badge/retro--snake__v2-0a0a0a?style=flat-square&logoColor=white" /></a> &nbsp;
+<a href="https://github.com/mlaasya07/Gibberish-Oracle"><img src="https://img.shields.io/badge/Gibberish--Oracle-6B1A2A?style=flat-square&logoColor=white" /></a>
+</div>
+
+<br/>
+
+## <img src="https://img.shields.io/badge/%E2%9C%A6%20TECH%20STACK-6B1A2A?style=for-the-badge&logoColor=white" />
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/languages-0a0a0a?style=for-the-badge&logoColor=white" />
+
+![Python](https://img.shields.io/badge/Python-6B1A2A?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-6B1A2A?style=flat-square&logo=javascript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-0a0a0a?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-6B1A2A?style=flat-square&logo=c&logoColor=white)
+![R](https://img.shields.io/badge/R-0a0a0a?style=flat-square&logo=r&logoColor=white)
+
+<img src="https://img.shields.io/badge/frontend-0a0a0a?style=for-the-badge&logoColor=white" />
+
+![React](https://img.shields.io/badge/React-6B1A2A?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-0a0a0a?style=flat-square&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-6B1A2A?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-0a0a0a?style=flat-square&logo=html5&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-6B1A2A?style=flat-square&logo=vite&logoColor=white)
+
+<img src="https://img.shields.io/badge/backend%20%26%20data-0a0a0a?style=for-the-badge&logoColor=white" />
+
+![Node.js](https://img.shields.io/badge/Node.js-6B1A2A?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-0a0a0a?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-6B1A2A?style=flat-square&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0a0a0a?style=flat-square&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-6B1A2A?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-0a0a0a?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-6B1A2A?style=flat-square&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-0a0a0a?style=flat-square&logo=pytorch&logoColor=white)
+
+<img src="https://img.shields.io/badge/tools%20%26%20design-0a0a0a?style=for-the-badge&logoColor=white" />
+
+![Git](https://img.shields.io/badge/Git-6B1A2A?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0a0a0a?style=flat-square&logo=githubactions&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-6B1A2A?style=flat-square&logo=figma&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-0a0a0a?style=flat-square&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-6B1A2A?style=flat-square&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-0a0a0a?style=flat-square&logo=postman&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-6B1A2A?style=flat-square&logo=powerbi&logoColor=white)
+
+</div>
+
+<br/>
+
+## <img src="https://img.shields.io/badge/%E2%9C%A6%20GITHUB%20STATS-6B1A2A?style=for-the-badge&logoColor=white" />
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mlaasya07&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0a0a&title_color=9B2335&icon_color=6B1A2A&text_color=ffffff" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=mlaasya07&hide_border=true&background=0a0a0a&ring=9B2335&fire=6B1A2A&currStreakLabel=ffffff&sideLabels=ffffff&dates=aaaaaa&currStreakNum=ffffff&sideNums=ffffff" />
+
+</div>
+
+<br/>
+
+## <img src="https://img.shields.io/badge/%E2%9C%A6%20TROPHIES-6B1A2A?style=for-the-badge&logoColor=white" />
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mlaasya07&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
+
+</div>
+
+<br/>
+
+## <img src="https://img.shields.io/badge/%E2%9C%A6%20CONTRIBUTION%20GRAPH-6B1A2A?style=for-the-badge&logoColor=white" />
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mlaasya07&bg_color=0a0a0a&color=ffffff&line=9B2335&point=6B1A2A&area=true&hide_border=true&area_color=6B1A2A" />
+
+</div>
+
+<br/>
+
+## <img src="https://img.shields.io/badge/%E2%9C%A6%20CONTRIBUTION%20SNAKE-6B1A2A?style=for-the-badge&logoColor=white" />
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mlaasya07/mlaasya07/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B1A2A,100:0a0a0a&height=100&section=footer&animation=fadeIn" />
+</div>
