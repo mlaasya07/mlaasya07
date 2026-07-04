@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/%E2%9C%A6_Portfolio-6B1A2A?style=for-the-badge&logoColor=white)](https://aboutme-laasya.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/%E2%9C%A6_Portfolio-6B1A2A?style=for-the-badge&logoColor=white)](https://mlaasya07.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mlaasya07)
 [![Instagram](https://img.shields.io/badge/Instagram-6B1A2A?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mlaasya_05)
 [![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mlaasy16@gmail.com)
